@@ -1,6 +1,6 @@
 # Pet-Owner-APP
-Uygulama özellikleri:
-Hayvan sahipleri ve veterinerler olmak üzere iki farklı kullanıcı çeşidi
+Uygulama özellikleri: /n
+Hayvan sahipleri ve veterinerler olmak üzere iki farklı kullanıcı çeşidi /n
 Hayvan sahipleri veterinerler ile mesajlaşabilecek
 Hayvan sahipleri hayvan kimlik kartlarını uygulamaya entegre edecek ve yanlarında taşımalarına gerek kalmayacak. Veterinerler bu kimlik kartlarını görüntüleyebilecek
 Hayvan sahipleri uygulamadaki harita üzerinden veterinerlerin konumlarını görüntüleyebilecek.
